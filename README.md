@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, my name is Igor
+# 👋 Hi, my name is Nikita
 
 ### Student of the Polar State University 
 
