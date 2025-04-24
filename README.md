@@ -1,9 +1,5 @@
 <div align="center">
 
-# 👋 Hi, my name is Nikita
-
-### Student of the Polar State University 
-
 </div>
 
 # 💻 Tech Stack:
